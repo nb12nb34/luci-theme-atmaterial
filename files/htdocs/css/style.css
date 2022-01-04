@@ -501,8 +501,9 @@ color: #8965e0!important;
 
 .main > .main-left > .nav > .slide > a[data-title="Docker"]:before {
     content: "\e02c";
- color: #11cdef!important;
+ color:#43AAFF!important;
 }
+
 .main > .main-left > .nav > .slide > a[data-title="NAS"]:before {
     content: "\e00b";
    color: #f3a4b5!important;
